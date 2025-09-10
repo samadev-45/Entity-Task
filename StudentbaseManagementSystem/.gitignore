@@ -1,0 +1,10 @@
+# Ignore Visual Studio temporary files, build results, and folders
+.vs/
+[Bb]in/
+[Oo]bj/
+[Rr]ef/
+*.user
+*.suo
+*.dll
+*.exe
+*.log
